@@ -7,7 +7,6 @@ My name is Vlad (●'◡'●). I am a fullstack-developer ⚙(Node js)
 - 🔧 2 years of backend-development<br/>
 - 🛠 1 year of frontend-development
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -24,7 +23,5 @@ My name is Vlad (●'◡'●). I am a fullstack-developer ⚙(Node js)
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slava-stack)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/><br/>
 
 How to reach me: minielephant16@gmail.com
